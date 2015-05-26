@@ -2,7 +2,7 @@
 
 namespace Nuxia\Component\Config;
 
-use Symfony\Component\DependencyInjection\ParameterBag\ParameterBag as SymfonyParameterBag;
+use Symfony\Component\HttpFoundation\ParameterBag as SymfonyParameterBag;
 
 /**
  * Holds and manages parameters.
